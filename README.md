@@ -3,7 +3,7 @@
 This project was developed as part of a study on creating RESTful APIs using **Spring Boot** and **JPA (Java Persistence API)**. It implements a complete data management system, including CRUD functionalities, logical layer structuring, and exception handling.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/1.png" alt="Project Image" width="300">
+  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/1.png" alt="Project Image" width="500">
 </p> 
 
 ## Features Developed  
@@ -15,7 +15,7 @@ This project was developed as part of a study on creating RESTful APIs using **S
 ### Domain Model  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/1.png" alt="Project Image" width="500">
+  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/2.png" alt="Project Image" width="600">
 </p>
 
 - Creation of entities to represent the domain objects.  
