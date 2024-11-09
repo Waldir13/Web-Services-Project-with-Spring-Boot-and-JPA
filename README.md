@@ -3,7 +3,7 @@
 This project was developed as part of a study on creating RESTful APIs using **Spring Boot** and **JPA (Java Persistence API)**. It implements a complete data management system, including CRUD functionalities, logical layer structuring, and exception handling.  
 
 <p align="center">
-  <img src="course/images/1.png" alt="Project Image" width="300">
+  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/1.png" alt="Project Image" width="300">
 </p> 
 
 ## Features Developed  
