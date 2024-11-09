@@ -15,8 +15,8 @@ This project was developed as part of a study on creating RESTful APIs using **S
 ### Domain Model  
 
 <p align="center">
-  <img src="course/images/2.png" alt="Domain Model" width="300">
-</p> 
+  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/1.png" alt="Project Image" width="500">
+</p>
 
 - Creation of entities to represent the domain objects.  
 - Mapping entities with **JPA**.  
@@ -24,8 +24,9 @@ This project was developed as part of a study on creating RESTful APIs using **S
 ### Logical Layers  
 
 <p align="center">
-  <img src="course/images/4.png" alt="Logical Layers" width="300">
-</p> 
+  <img src="https://raw.githubusercontent.com/Waldir13/Web-Services-Project-with-Spring-Boot-and-JPA/master/course/images/4.png" alt="Project Image" width="500">
+</p>
+
 
 - Implementation of **Resource**, **Service**, and **Repository** layers, following best architectural practices.  
 
